@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>E:\LEDES\sigfap %2a.php strstr mb_strstr 20 FpdfSigFap html2pdf MPDF54</StartArguments>
+  </PropertyGroup>
+</Project>
